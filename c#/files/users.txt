@@ -1,0 +1,6 @@
+{"Name":"a","Password":"a","Email":"a"}
+{"Name":"aaa","Password":"aaa","Email":"aaa"}
+{"Name":"אסתי שטיינהרטר","Password":"20500","Email":"ester@gmail.com"}
+{"Name":"Esty Steinharter","Password":"20500","Email":"ester@gmail.com"}
+{"Name":"esty","Password":"20500","Email":"esty@gmail.com"}
+{"Name":"אסתי","Password":"6","Email":"טטט"}

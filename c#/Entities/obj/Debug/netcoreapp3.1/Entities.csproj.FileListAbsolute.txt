@@ -1,0 +1,97 @@
+M:\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+M:\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+M:\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+M:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+M:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+M:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+M:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+M:\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+M:\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+M:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+M:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+G:\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+G:\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+G:\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+G:\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+G:\לללל\Lesson_1\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+G:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+G:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+G:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+G:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+G:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+G:\לללל\Lesson_1\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+M:\aaa_final_bina_project\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+M:\aaa_final_bina_project\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+M:\aaa_final_bina_project\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+M:\aaa_final_bina_project\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+M:\aaa_final_bina_project\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\aaa_final_bina_project\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+M:\aaa_final_bina_project\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+M:\aaa_final_bina_project\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+M:\aaa_final_bina_project\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+M:\aaa_final_bina_project\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+M:\aaa_final_bina_project\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+M:\aaa_final_bina_project\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+M:\new-Auto-Parking\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+M:\new-Auto-Parking\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+M:\new-Auto-Parking\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+M:\new-Auto-Parking\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+M:\new-Auto-Parking\server c#\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\new-Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\new-Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+M:\new-Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+M:\new-Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+M:\new-Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+M:\new-Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+M:\new-Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+M:\new-Auto-Parking\server c#\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache

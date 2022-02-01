@@ -1,0 +1,431 @@
+M:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.json
+M:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+M:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.exe
+M:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.deps.json
+M:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.json
+M:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.dev.json
+M:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.dll
+M:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
+M:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+M:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+M:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+M:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.RazorTargetAssemblyInfo.cache
+M:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.Manifest.cache
+M:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.xml
+M:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+M:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+M:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache
+M:\web API\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\web API\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+M:\web API\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cache
+M:\web API\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CopyComplete
+E:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.json
+E:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.exe
+E:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.deps.json
+E:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.json
+E:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.dev.json
+E:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.dll
+E:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
+E:\web api\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cache
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.RazorTargetAssemblyInfo.cache
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CopyComplete
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.Manifest.cache
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.xml
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+E:\web api\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.exe
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.deps.json
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.json
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.dev.json
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.RazorTargetAssemblyInfo.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CopyComplete
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.Manifest.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.xml
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\module.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\module.pdb
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.exe
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.deps.json
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.json
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.dev.json
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\module.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\module.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.RazorTargetAssemblyInfo.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CopyComplete
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.Manifest.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.xml
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.json
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.exe
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.deps.json
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.json
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.dev.json
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\BL.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\DL.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\BL.pdb
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\DL.pdb
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.RazorTargetAssemblyInfo.cache
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CopyComplete
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.Manifest.cache
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.xml
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cache
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Entities.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.exe
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.deps.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.dev.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\module.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\module.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.RazorTargetAssemblyInfo.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CopyComplete
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.Manifest.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.xml
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cache
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.json
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.exe
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.deps.json
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.json
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.dev.json
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\BL.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\DL.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Entities.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\module.dll
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\BL.pdb
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\module.pdb
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\DL.pdb
+G:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.RazorTargetAssemblyInfo.cache
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CopyComplete
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.Manifest.cache
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.xml
+G:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lesson_1.styles.css
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lesson_1.styles.css
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\לללל\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\לללל\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cs
+M:\חחחחח\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+M:\חחחחח\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+M:\חחחחח\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+M:\חחחחח\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+M:\חחחחח\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cs
+M:\חחחחח\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cache
+M:\חחחחח\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+M:\חחחחח\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cs
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.MvcApplicationPartsAssemblyInfo.cache
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\appsettings.json
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.exe
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.deps.json
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.json
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.dev.json
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\BL.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\DL.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Entities.dll
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\BL.pdb
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\DL.pdb
+M:\aaa_final_bina_project\server c#\Lesson_1\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.Manifest.cache
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\staticwebassets\Lesson_1.StaticWebAssets.xml
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lesson_1.styles.css
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.RazorTargetAssemblyInfo.cache
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CopyComplete
+M:\aaa_final_bina_project\server c#\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache

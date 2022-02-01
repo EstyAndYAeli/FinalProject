@@ -1,0 +1,36 @@
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\module\bin\Debug\netcoreapp3.1\module.deps.json
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\module\bin\Debug\netcoreapp3.1\module.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\module\bin\Debug\netcoreapp3.1\module.pdb
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\module\obj\Debug\netcoreapp3.1\module.csprojAssemblyReference.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\module\obj\Debug\netcoreapp3.1\module.AssemblyInfoInputs.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\module\obj\Debug\netcoreapp3.1\module.AssemblyInfo.cs
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\module\obj\Debug\netcoreapp3.1\module.csproj.CoreCompileInputs.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\module\obj\Debug\netcoreapp3.1\module.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\module\obj\Debug\netcoreapp3.1\module.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\module\bin\Debug\netcoreapp3.1\module.deps.json
+C:\Users\323056010\Desktop\לללל\Lesson_1\module\bin\Debug\netcoreapp3.1\module.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\module\bin\Debug\netcoreapp3.1\module.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.csprojAssemblyReference.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.AssemblyInfoInputs.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.AssemblyInfo.cs
+C:\Users\323056010\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.csproj.CoreCompileInputs.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.pdb
+M:\לללל\Lesson_1\module\bin\Debug\netcoreapp3.1\module.deps.json
+M:\לללל\Lesson_1\module\bin\Debug\netcoreapp3.1\module.dll
+M:\לללל\Lesson_1\module\bin\Debug\netcoreapp3.1\module.pdb
+M:\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.csprojAssemblyReference.cache
+M:\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.AssemblyInfoInputs.cache
+M:\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.AssemblyInfo.cs
+M:\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.dll
+M:\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.pdb
+M:\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.csproj.CoreCompileInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\module\bin\Debug\netcoreapp3.1\module.deps.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\module\bin\Debug\netcoreapp3.1\module.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\module\bin\Debug\netcoreapp3.1\module.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.csprojAssemblyReference.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.AssemblyInfoInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.AssemblyInfo.cs
+C:\Users\212039275\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.csproj.CoreCompileInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\module\obj\Debug\netcoreapp3.1\module.pdb
