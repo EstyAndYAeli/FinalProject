@@ -1,0 +1,126 @@
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\bin\Debug\netcoreapp3.1\module.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\bin\Debug\netcoreapp3.1\module.pdb
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\tzama nafshi\Desktop\Esty\1\14th\web api\1\targil\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\module.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\module.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.dll
+M:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.pdb
+M:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\DL.dll
+M:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\DL.pdb
+M:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+M:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+M:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.dll
+M:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\Entities.dll
+M:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\module.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\module.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\212039275\Desktop\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\323056010\Desktop\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+G:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.dll
+G:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\BL.pdb
+G:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\DL.dll
+G:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\Entities.dll
+G:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\module.dll
+G:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\DL.pdb
+G:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\module.pdb
+G:\לללל\Lesson_1\BL\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+G:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+G:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+G:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+G:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+G:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.dll
+G:\לללל\Lesson_1\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\aaa_final_bina_project\server c#\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\aaa_final_bina_project\server c#\BL\bin\Debug\netcoreapp3.1\BL.dll
+M:\aaa_final_bina_project\server c#\BL\bin\Debug\netcoreapp3.1\BL.pdb
+M:\aaa_final_bina_project\server c#\BL\bin\Debug\netcoreapp3.1\DL.dll
+M:\aaa_final_bina_project\server c#\BL\bin\Debug\netcoreapp3.1\Entities.dll
+M:\aaa_final_bina_project\server c#\BL\bin\Debug\netcoreapp3.1\DL.pdb
+M:\aaa_final_bina_project\server c#\BL\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\aaa_final_bina_project\server c#\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+M:\aaa_final_bina_project\server c#\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\aaa_final_bina_project\server c#\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\aaa_final_bina_project\server c#\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+M:\aaa_final_bina_project\server c#\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+M:\aaa_final_bina_project\server c#\BL\obj\Debug\netcoreapp3.1\BL.dll
+M:\aaa_final_bina_project\server c#\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\user\Documents\YAELI_2021\חומרים\aaafinalproj\Auto-Parking-main\server c#\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.dll
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\BL.dll
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\BL.pdb
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\DL.dll
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\Entities.dll
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\DL.pdb
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+M:\aaa_final_bina_project\212039275\Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+M:\new-Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+M:\new-Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\new-Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\new-Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\new-Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+M:\new-Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.dll
+M:\new-Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\new-Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\new-Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\BL.dll
+M:\new-Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\BL.pdb
+M:\new-Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\DL.dll
+M:\new-Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\Entities.dll
+M:\new-Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\DL.pdb
+M:\new-Auto-Parking\server c#\BL\bin\Debug\netcoreapp3.1\Entities.pdb
+M:\new-Auto-Parking\server c#\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete

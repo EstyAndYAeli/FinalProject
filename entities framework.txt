@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=srv2\PUPILS;Database=auto_parking;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
